@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
   - [SIEM Geolocation Brute Forced Attacks](https://github.com/Sterlingmitchell1392/SIEM-Geolocation-Lookup)
   
-- <b>C# (SQL)</b>
+- <b>SQL</b>
   - [Database Management)](https://github.com/Sterlingmitchell1392/Database-Management-SQL))
  
 - <b>Python</b>
