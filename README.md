@@ -1,6 +1,10 @@
 'Hey I'm Sterling! <br/><a href="https://github.com/Sterlingmitchell1392">Systems Admin</a>, <a href="https://www.linkedin.com/in/sterling-mitchell-iii/">Cybersecurity Professional</a>, 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+
+- <b>Quick Powershell Automation Task</b>
+-[Powershell Automation](https://github.com/Sterlingmitchell1392/Quick-Powershell-Automation-Task/blob/main/README.md)
+
 - <b>Active Directory for Coporate Company</b>
 -[Active Directory for Corporate Environment](https://github.com/Sterlingmitchell1392/Active-Directory-for-Corporate-)
 - <b>Vulnerbility Scanning</b>
