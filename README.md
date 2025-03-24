@@ -24,7 +24,7 @@
 
 
 
-- 🌱 I’m currently learning Cybersecurity Strategies
+- 🌱 I’m currently learning Automation, Visualization Trends, Cybersecurity Strategies
 - 👯 I’m looking to collaborate on Cybersecurity, System Admin, Network Engineer job opportunities
 - 📫 How to reach me: sterlingmitchel1392@gmail.com
 - 😄 Pronouns: He/Him
